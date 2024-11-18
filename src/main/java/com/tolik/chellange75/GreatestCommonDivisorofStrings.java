@@ -1,4 +1,4 @@
-package com.tolik.solution;
+package com.tolik.chellange75;
 
 import java.util.Objects;
 
